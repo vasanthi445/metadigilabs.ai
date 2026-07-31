@@ -343,9 +343,9 @@ justify-content:center;
 
 display:flex;
 
-gap:40px;
+gap:15px;
 
-flex-wrap:nowrap;
+flex-wrap:wrap;
 
 font-size:14px;
 
