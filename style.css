@@ -38,6 +38,11 @@ border-bottom:1px solid rgba(255,255,255,.08);
 
 }
 
+.logo img{
+    width:180px;
+    margin:20px 0;
+}
+
 /* NAVBAR */
 
 .navbar{
