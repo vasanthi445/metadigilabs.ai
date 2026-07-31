@@ -20,6 +20,12 @@ display:block;
 
 }
 
+@media (max-width:768px){
+    .nav div{
+        margin-left:0 !important;
+    }
+}
+
 @media(max-width:992px){
 
 .hero h1{
